@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">SoundGuardian</string>
+    <string name="channel_id">sound_guardian_channel</string>
+    <string name="channel_name">Sound Guardian Channel</string>
+    <string name="channel_description">Sound Guardian Notification Channel</string>
+    <string name="detener">detener</string>
+    <string name="iniciar">iniciar</string>
+
+    <string name="nivel_de_ruido">Nivel de ruido: %1$d dB</string>
+    <string name="umbral_superado">¡Umbral de sonido superado!</string>
+    <string name="nivel_ruido_superado">El nivel de ruido ha superado el umbral establecido.</string>
+    <string name="iniciar_alarma">Iniciar Alarma</string>
 </resources>
