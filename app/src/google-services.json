@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817158039966",
+    "project_id": "sound-guardian28",
+    "storage_bucket": "sound-guardian28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817158039966:android:01b6d90e8b49ce87c3ce8f",
+        "android_client_info": {
+          "package_name": "com.mariana.soundguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817158039966-6fpvge6e04emc5srissg7iblc2jmiv9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mariana.soundguardian",
+            "certificate_hash": "70d0235ea1fcde901bdfb0c8ccf1603917055d71"
+          }
+        },
+        {
+          "client_id": "817158039966-cffs72bc4ivn08h2nbtbmt2eqbiu39bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqq1wjwV5V5LhTUlGuHpdStCwEXwCM8dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817158039966-cffs72bc4ivn08h2nbtbmt2eqbiu39bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

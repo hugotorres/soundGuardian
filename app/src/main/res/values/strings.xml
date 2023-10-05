@@ -10,4 +10,6 @@
     <string name="umbral_superado">¡Umbral de sonido superado!</string>
     <string name="nivel_ruido_superado">El nivel de ruido ha superado el umbral establecido.</string>
     <string name="iniciar_alarma">Iniciar Alarma</string>
+    <string name="default_web_client_id">817158039966-cffs72bc4ivn08h2nbtbmt2eqbiu39bh.apps.googleusercontent.com</string>
+
 </resources>

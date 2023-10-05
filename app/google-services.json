@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817158039966",
+    "project_id": "sound-guardian28",
+    "storage_bucket": "sound-guardian28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817158039966:android:01b6d90e8b49ce87c3ce8f",
+        "android_client_info": {
+          "package_name": "com.mariana.soundguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqq1wjwV5V5LhTUlGuHpdStCwEXwCM8dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
